@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Night Owl No Italics",
+    "editor.fontSize": 18,
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontFamily": "Dank Mono",
+    "editor.fontLigatures": true,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#001122",
+        "activityBar.border": "#102a44"
+    },
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false
+}

@@ -1,0 +1,112 @@
+{
+	"name": "night-owl-plus",
+	"displayName": "Night Owl+",
+	"description": "Night Owl theme with revamped colors.",
+	"version": "1.0.2",
+	"publisher": "svipas",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/svipas/vscode-night-owl-plus-theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/svipas/vscode-night-owl-plus-theme/issues"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#061526",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.17.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"night",
+		"light",
+		"owl",
+		"theme",
+		"revamped",
+		"colors",
+		"color",
+		"dark",
+		"night owl",
+		"light owl",
+		"early bird",
+		"accessible theme",
+		"dark theme",
+		"light theme",
+		"italics theme",
+		"italic theme",
+		"snow owl",
+		"early",
+		"bird",
+		"accessible",
+		"javascript",
+		"react",
+		"reactjs",
+		"node",
+		"nodejs",
+		"c",
+		"c++",
+		"js",
+		"jsx",
+		"flow",
+		"typescript",
+		"ts",
+		"json",
+		"html",
+		"vue",
+		"angular",
+		"css",
+		"less",
+		"scss",
+		"styled-components",
+		"styled-jsx",
+		"graphql",
+		"markdown",
+		"md",
+		"commonmark",
+		"mdx",
+		"yaml",
+		"yml",
+		"elm",
+		"java",
+		"php",
+		"postgresql",
+		"sql",
+		"ruby",
+		"swift",
+		"toml"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Night Owl+ Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark/night-owl-plus-dark-color-theme.json"
+			},
+			{
+				"label": "Night Owl+ Dark (Italics)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark/night-owl-plus-dark-italics-color-theme.json"
+			},
+			{
+				"label": "Night Owl+ Light",
+				"uiTheme": "vs",
+				"path": "./themes/light/night-owl-plus-light-color-theme.json"
+			},
+			{
+				"label": "Night Owl+ Light (Italics)",
+				"uiTheme": "vs",
+				"path": "./themes/light/night-owl-plus-light-italics-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "da28c660-5976-4e37-9152-ecbe51207d4b",
+		"publisherId": "64992a19-7934-4f74-bc90-058b61bfff35",
+		"publisherDisplayName": "Benas Svipas"
+	}
+}
