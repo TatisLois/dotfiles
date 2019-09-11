@@ -13,6 +13,7 @@ sync:
 spec:
   ~/.config/fish/: fish
   ~/.vscode/: vscode
+  ~/.vscode/extensions/dsznajder.es7-react-js-snippets-2.4.3/: vscode/js-snippets
   # ~/examplefile: file
   # ../../examplefile: ../file
   # ~/example dir: dir
