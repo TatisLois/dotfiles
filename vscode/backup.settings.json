@@ -1,13 +1,12 @@
 {
-    "workbench.colorTheme": "Night Owl No Italics",
-    "editor.fontSize": 18,
     "explorer.confirmDragAndDrop": false,
-    "editor.fontFamily": "Dank Mono",
+    "window.zoomLevel": 1,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "Hasklig",
     "editor.fontLigatures": true,
-    "workbench.colorCustomizations": {
-        "activityBar.background": "#001122",
-        "activityBar.border": "#102a44"
-    },
-    "editor.minimap.enabled": false,
-    "explorer.confirmDelete": false
+    "workbench.colorTheme": "Noctis Azureus",
+    "editor.snippetSuggestions": "top",
+    "explorer.confirmDelete": false,
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true
 }
