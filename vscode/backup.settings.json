@@ -1,12 +1,15 @@
 {
-    "explorer.confirmDragAndDrop": false,
-    "window.zoomLevel": 1,
-    "workbench.startupEditor": "newUntitledFile",
-    "editor.fontFamily": "Hasklig",
-    "editor.fontLigatures": true,
-    "workbench.colorTheme": "Noctis Azureus",
-    "editor.snippetSuggestions": "top",
-    "explorer.confirmDelete": false,
-    "editor.tabSize": 2,
-    "files.insertFinalNewline": true
+  "explorer.confirmDragAndDrop": false,
+  "window.zoomLevel": 1,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontFamily": "Hasklig",
+  "editor.fontLigatures": true,
+  "editor.snippetSuggestions": "top",
+  "explorer.confirmDelete": false,
+  "editor.tabSize": 2,
+  "files.insertFinalNewline": true,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "workbench.colorTheme": "Nord",
+  "workbench.iconTheme": "material-icon-theme"
 }

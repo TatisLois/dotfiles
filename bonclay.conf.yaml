@@ -1,10 +1,10 @@
 # For a detailed description on the different options and how to configure them,
-# refer to the user guide: https://github.com/talal/bonclay/blob/master/doc/guide.md
+# refer to the user guide: https://github.com/talal/bonclay
 backup:
-  overwrite: false
+  overwrite: true
 
 restore:
-  overwrite: false
+  overwrite: true
 
 sync:
   clean: true
@@ -13,7 +13,7 @@ sync:
 spec:
   ~/.config/fish/: fish
   ~/.vscode/: vscode
-  ~/.vscode/extensions/dsznajder.es7-react-js-snippets-2.4.3/: vscode/js-snippets
+  ~/.config/alacritty/: alacritty
   # ~/examplefile: file
   # ../../examplefile: ../file
   # ~/example dir: dir

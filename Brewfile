@@ -1,17 +1,18 @@
 tap "dart-lang/dart"
 tap "homebrew/bundle"
+tap "homebrew/cask"
 tap "homebrew/core"
+tap "talal/tap"
 brew "cocoapods"
+brew "ffmpeg"
 brew "fish"
-brew "usbmuxd", args: ["HEAD"]
 brew "libimobiledevice", args: ["HEAD"]
 brew "ideviceinstaller"
 brew "ios-deploy"
+brew "jq"
+brew "libusbmuxd", args: ["HEAD"]
 brew "node"
 brew "watchman"
 brew "yarn"
 brew "dart-lang/dart/dart"
-brew "talal/tap/bonclay"
-brew "jq"
-cask install "iterm2"
-cask install "visual-studio-code"
+cask "alacritty"
