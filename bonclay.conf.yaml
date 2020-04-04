@@ -1,19 +1,20 @@
 # For a detailed description on the different options and how to configure them,
 # refer to the user guide: https://github.com/talal/bonclay
 backup:
-  overwrite: true
+  overwrite: false
 
 restore:
-  overwrite: true
+  overwrite: false
 
 sync:
   clean: true
-  overwrite: true
+  overwrite: false
 
 spec:
   ~/.config/fish/: fish
   ~/.vscode/: vscode
   ~/.config/alacritty/: alacritty
+  # ~/.config/.tmux.conf: .tmux.conf
   # ~/examplefile: file
   # ../../examplefile: ../file
   # ~/example dir: dir
