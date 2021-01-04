@@ -12,10 +12,3 @@ sync:
 
 spec:
   ~/.config/fish/: fish
-  ~/.vscode/: vscode
-  ~/.config/alacritty/: alacritty
-  # ~/.config/.tmux.conf: .tmux.conf
-  # ~/examplefile: file
-  # ../../examplefile: ../file
-  # ~/example dir: dir
-  # ../example dir/some other dir: ../new dir
